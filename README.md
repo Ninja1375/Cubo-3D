@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo**
+
+**[Cubo 3D](https://ninja1375.github.io/Cubo-3D/)**
+
 O **Cubo 3D** usa cores vibrantes e efeitos para criar uma experiência visual imersiva e moderna.
 
 **Plano de Fundo:** O fundo da página apresenta um gradiente diagonal que transita entre azul-escuro, vermelho e dourado, criando uma atmosfera intensa e envolvente.
