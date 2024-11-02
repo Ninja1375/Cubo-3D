@@ -6,6 +6,6 @@ O **Cubo 3D** usa cores vibrantes e efeitos para criar uma experiência visual i
 
 **Grades e Quadrados Interativos:** Cada face do cubo contém uma grade de quadrados pequenos, que mudam de cor de maneira solicitada, adicionando uma camada de movimento e imprevisibilidade. Quando um quadrado fica ativo, ele se transforma em um ponto amarelo brilhante com efeito de "glow", parecendo pulsar suavemente, como luzes intermitentes.
 
-**Efeito de Movimento com o Rato:** O cubo responde ao movimento do mouse, girando conforme o usuário move o cursor. Este efeito de rotação realça a profundidade e o dinamismo do cubo, dando uma impressão de interação 3D.
+**Efeito de Movimento com o Mouse:** O cubo responde ao movimento do mouse, girando conforme o usuário move o cursor. Este efeito de rotação realça a profundidade e o dinamismo do cubo, dando uma impressão de interação 3D.
 
 Este design é pensado para ser atraente e interativo, misturando cores vivas e efeitos suaves para criar uma peça visual moderna e chamativa.
