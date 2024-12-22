@@ -1,4 +1,4 @@
-**Veja o projeto ao vivo**
+**Veja o projeto ao vivo
 
 **[Cubo 3D](https://ninja1375.github.io/Cubo-3D/)**
 
